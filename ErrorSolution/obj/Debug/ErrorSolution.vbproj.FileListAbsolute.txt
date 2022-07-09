@@ -1,0 +1,13 @@
+E:\APPLICATIONS\13_OTHER\ASP-01\ErrorSolution\ErrorSolution\bin\Debug\ErrorSolution.exe.config
+E:\APPLICATIONS\13_OTHER\ASP-01\ErrorSolution\ErrorSolution\bin\Debug\ErrorSolution.exe
+E:\APPLICATIONS\13_OTHER\ASP-01\ErrorSolution\ErrorSolution\bin\Debug\ErrorSolution.pdb
+E:\APPLICATIONS\13_OTHER\ASP-01\ErrorSolution\ErrorSolution\bin\Debug\ErrorSolution.xml
+E:\APPLICATIONS\13_OTHER\ASP-01\ErrorSolution\ErrorSolution\obj\Debug\ErrorSolution.Form1.resources
+E:\APPLICATIONS\13_OTHER\ASP-01\ErrorSolution\ErrorSolution\obj\Debug\ErrorSolution.Home.resources
+E:\APPLICATIONS\13_OTHER\ASP-01\ErrorSolution\ErrorSolution\obj\Debug\ErrorSolution.Resources.resources
+E:\APPLICATIONS\13_OTHER\ASP-01\ErrorSolution\ErrorSolution\obj\Debug\ErrorSolution.StudRegister.resources
+E:\APPLICATIONS\13_OTHER\ASP-01\ErrorSolution\ErrorSolution\obj\Debug\ErrorSolution.vbproj.GenerateResource.cache
+E:\APPLICATIONS\13_OTHER\ASP-01\ErrorSolution\ErrorSolution\obj\Debug\ErrorSolution.vbproj.CoreCompileInputs.cache
+E:\APPLICATIONS\13_OTHER\ASP-01\ErrorSolution\ErrorSolution\obj\Debug\ErrorSolution.exe
+E:\APPLICATIONS\13_OTHER\ASP-01\ErrorSolution\ErrorSolution\obj\Debug\ErrorSolution.xml
+E:\APPLICATIONS\13_OTHER\ASP-01\ErrorSolution\ErrorSolution\obj\Debug\ErrorSolution.pdb

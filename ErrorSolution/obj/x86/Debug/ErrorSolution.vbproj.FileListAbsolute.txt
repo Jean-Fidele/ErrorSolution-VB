@@ -1,0 +1,25 @@
+c:\users\dell\documents\visual studio 2010\Projects\ErrorSolution\ErrorSolution\bin\Debug\ErrorSolution.exe
+c:\users\dell\documents\visual studio 2010\Projects\ErrorSolution\ErrorSolution\bin\Debug\ErrorSolution.pdb
+c:\users\dell\documents\visual studio 2010\Projects\ErrorSolution\ErrorSolution\bin\Debug\ErrorSolution.xml
+c:\users\dell\documents\visual studio 2010\Projects\ErrorSolution\ErrorSolution\obj\x86\Debug\ErrorSolution.Form1.resources
+c:\users\dell\documents\visual studio 2010\Projects\ErrorSolution\ErrorSolution\obj\x86\Debug\ErrorSolution.Resources.resources
+c:\users\dell\documents\visual studio 2010\Projects\ErrorSolution\ErrorSolution\obj\x86\Debug\ErrorSolution.vbproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2010\Projects\ErrorSolution\ErrorSolution\obj\x86\Debug\ErrorSolution.exe
+c:\users\dell\documents\visual studio 2010\Projects\ErrorSolution\ErrorSolution\obj\x86\Debug\ErrorSolution.xml
+c:\users\dell\documents\visual studio 2010\Projects\ErrorSolution\ErrorSolution\obj\x86\Debug\ErrorSolution.pdb
+c:\users\dell\documents\visual studio 2010\Projects\ErrorSolution\ErrorSolution\obj\x86\Debug\ErrorSolution.Home.resources
+C:\Users\dell\Documents\Visual Studio 2010\Projects\ErrorSolution\ErrorSolution\obj\x86\Debug\ErrorSolution.StudRegister.resources
+E:\APPLICATIONS\13_OTHER\ASP-01\ErrorSolution\ErrorSolution\bin\Debug\ErrorSolution.exe
+E:\APPLICATIONS\13_OTHER\ASP-01\ErrorSolution\ErrorSolution\bin\Debug\ErrorSolution.pdb
+E:\APPLICATIONS\13_OTHER\ASP-01\ErrorSolution\ErrorSolution\bin\Debug\ErrorSolution.xml
+E:\APPLICATIONS\13_OTHER\ASP-01\ErrorSolution\ErrorSolution\obj\x86\Debug\ErrorSolution.vbproj.AssemblyReference.cache
+E:\APPLICATIONS\13_OTHER\ASP-01\ErrorSolution\ErrorSolution\obj\x86\Debug\ErrorSolution.Form1.resources
+E:\APPLICATIONS\13_OTHER\ASP-01\ErrorSolution\ErrorSolution\obj\x86\Debug\ErrorSolution.Home.resources
+E:\APPLICATIONS\13_OTHER\ASP-01\ErrorSolution\ErrorSolution\obj\x86\Debug\ErrorSolution.Resources.resources
+E:\APPLICATIONS\13_OTHER\ASP-01\ErrorSolution\ErrorSolution\obj\x86\Debug\ErrorSolution.StudRegister.resources
+E:\APPLICATIONS\13_OTHER\ASP-01\ErrorSolution\ErrorSolution\obj\x86\Debug\ErrorSolution.vbproj.GenerateResource.cache
+E:\APPLICATIONS\13_OTHER\ASP-01\ErrorSolution\ErrorSolution\obj\x86\Debug\ErrorSolution.vbproj.CoreCompileInputs.cache
+E:\APPLICATIONS\13_OTHER\ASP-01\ErrorSolution\ErrorSolution\obj\x86\Debug\ErrorSolution.exe
+E:\APPLICATIONS\13_OTHER\ASP-01\ErrorSolution\ErrorSolution\obj\x86\Debug\ErrorSolution.xml
+E:\APPLICATIONS\13_OTHER\ASP-01\ErrorSolution\ErrorSolution\obj\x86\Debug\ErrorSolution.pdb
+E:\APPLICATIONS\13_OTHER\ASP-01\ErrorSolution\ErrorSolution\bin\Debug\ErrorSolution.exe.config
